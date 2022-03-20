@@ -1,0 +1,7 @@
+{
+  "name": "clean-code-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "suganame <gsuganame@gmail.com>",
+  "license": "MIT"
+}
